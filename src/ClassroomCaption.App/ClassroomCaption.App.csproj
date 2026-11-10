@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>ClassroomCaption</AssemblyName>
+    <Version>1.1.0</Version>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Assets/AppLogo.ico</ApplicationIcon>
+    <ImplicitUsings>disable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <InternalsVisibleTo Include="ClassroomCaption.WindowsTests" />
+    <ProjectReference Include="../ClassroomCaption.Core/ClassroomCaption.Core.csproj" />
+    <PackageReference Include="NAudio.Wasapi" Version="2.2.1" />
+    <PackageReference Include="NAudio.WinMM" Version="2.2.1" />
+    <PackageReference Include="WpfMath" Version="2.1.0" />
+  </ItemGroup>
+  <ItemGroup><Using Include="System"/><Using Include="System.Collections.Generic"/><Using Include="System.IO"/><Using Include="System.Linq"/><Using Include="System.Threading"/><Using Include="System.Threading.Tasks"/></ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets/Fonts/NotoSansSC-Regular.otf" />
+    <Resource Include="Assets/AppLogo.ico" />
+    <Resource Include="Assets/AppLogo.png" />
+    <EmbeddedResource Include="../../native/ClassroomProbe/win-x86/ClassroomProbe.exe" LogicalName="ClassroomCaption.ClassroomProbe.exe" />
+    <Content Include="Assets/Fonts/OFL.txt" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Assets/Licenses/*.md" Link="%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="../../native/rnnoise/win-x64/rnnoise.dll" Link="rnnoise.dll" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="../../native/rnnoise/COPYING" Link="RNNoise-COPYING.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="../../THIRD-PARTY-NOTICES.txt" Link="THIRD-PARTY-NOTICES.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(InitialCredentialsFile)' != ''">
+    <EmbeddedResource Include="$(InitialCredentialsFile)" LogicalName="ClassroomCaption.InitialCredentials.json" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(InitialSettingsFile)' != ''">
+    <EmbeddedResource Include="$(InitialSettingsFile)" LogicalName="ClassroomCaption.InitialSettings.json" />
+  </ItemGroup>
+</Project>

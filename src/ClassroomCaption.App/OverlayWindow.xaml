@@ -1,0 +1,9 @@
+<Window x:Class="ClassroomCaption.App.OverlayWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:ClassroomCaption.App" Title="课堂双语悬浮字幕" WindowStyle="None" AllowsTransparency="True" Background="Transparent" ResizeMode="NoResize" Topmost="True" ShowInTaskbar="False" ShowActivated="False" MinWidth="380" MinHeight="150" Width="1050" Height="245">
+  <Border x:Name="OuterBorder" BorderThickness="0" Padding="0">
+    <Border.Background><SolidColorBrush x:Name="PanelBrush" Color="#000000" Opacity="0"/></Border.Background>
+    <StackPanel>
+      <ScrollViewer x:Name="RussianScroll" VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Disabled" HorizontalContentAlignment="Stretch" Margin="0,0,0,2"><ScrollViewer.Style><Style TargetType="ScrollViewer"><Style.Triggers><DataTrigger Binding="{Binding Text,ElementName=RussianCaption}" Value=""><Setter Property="Visibility" Value="Collapsed"/></DataTrigger></Style.Triggers></Style></ScrollViewer.Style><local:OutlinedText x:Name="RussianCaption" Text="" TextSize="22" Color="#FFFFFF" Outline="False" TextBackdrop="True" Weight="Normal"/></ScrollViewer>
+      <ScrollViewer x:Name="ChineseScroll" VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Disabled" HorizontalContentAlignment="Stretch"><local:OutlinedText x:Name="ChineseCaption" Text="尚未开始翻译" TextSize="40" Color="#FFFFFF" Weight="Normal" Outline="False" TextBackdrop="True" FontFamily="{x:Static local:CaptionTypography.Chinese}"/></ScrollViewer>
+    </StackPanel>
+  </Border>
+</Window>

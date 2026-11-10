@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClassroomCaption.Core/ClassroomCaption.Core.csproj" />
+    <Project Path="src/ClassroomCaption.App/ClassroomCaption.App.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ClassroomCaption.Tests/ClassroomCaption.Tests.csproj" />
+    <Project Path="tests/ClassroomCaption.WindowsTests/ClassroomCaption.WindowsTests.csproj" />
+  </Folder>
+</Solution>

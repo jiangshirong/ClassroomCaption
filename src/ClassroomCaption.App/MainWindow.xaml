@@ -1,0 +1,90 @@
+<Window x:Class="ClassroomCaption.App.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:ClassroomCaption.App" xmlns:shell="clr-namespace:System.Windows.Shell;assembly=PresentationFramework" Title="俄语课堂 · 双语字幕" Width="420" Height="460" MinWidth="420" MinHeight="460" WindowStyle="None" WindowStartupLocation="CenterScreen" Closing="OnClosing" PreviewKeyDown="OnPreviewKeyDown">
+  <shell:WindowChrome.WindowChrome><shell:WindowChrome CaptionHeight="58" ResizeBorderThickness="6" GlassFrameThickness="0" CornerRadius="14"/></shell:WindowChrome.WindowChrome>
+  <Border Background="{StaticResource Paper}" BorderBrush="#31454D" BorderThickness="1" CornerRadius="14" TextElement.Foreground="{StaticResource Ink}">
+    <Grid>
+      <Grid.RowDefinitions><RowDefinition Height="60"/><RowDefinition Height="48"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+      <Grid Margin="20,8,12,8">
+        <Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+          <Border Width="32" Height="32" CornerRadius="9" Background="#2C4D4E" Margin="0,0,12,0"><Path Data="{StaticResource CaptionsIcon}" Style="{StaticResource Icon}" Stroke="#B5E7DB" Width="17" Height="17"/></Border>
+          <TextBlock Text="课堂字幕" FontSize="15" FontWeight="SemiBold" VerticalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Orientation="Horizontal" shell:WindowChrome.IsHitTestVisibleInChrome="True">
+          <Button Style="{StaticResource IconButton}" Click="SettingsClick" ToolTip="连接与设置" AutomationProperties.Name="连接与设置"><Path Data="{StaticResource SlidersHorizontalIcon}" Style="{StaticResource Icon}"/></Button>
+          <Button Style="{StaticResource IconButton}" Click="MinimizeClick" ToolTip="最小化" AutomationProperties.Name="最小化"><Path Data="{StaticResource MinusIcon}" Style="{StaticResource Icon}" Width="14"/></Button>
+          <Button Style="{StaticResource IconButton}" Click="MaximizeClick" ToolTip="最大化或还原" AutomationProperties.Name="最大化或还原"><Path Data="M 4,4 L 20,4 20,20 4,20 Z" Style="{StaticResource Icon}" Width="14" Height="14"/></Button>
+          <Button Style="{StaticResource IconButton}" Click="CloseClick" ToolTip="关闭" AutomationProperties.Name="关闭"><Path Data="{StaticResource XIcon}" Style="{StaticResource Icon}" Width="15"/></Button>
+        </StackPanel>
+      </Grid>
+              <Grid x:Name="PanelToolbar" Grid.Row="1" Margin="24,0,24,0">
+                <Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                  <Ellipse x:Name="StateDot" Width="7" Height="7" Fill="#91ABA8" Margin="0,0,9,0"/>
+                  <TextBlock x:Name="StateText" Text="未开始" TextWrapping="NoWrap" TextTrimming="CharacterEllipsis" MaxWidth="100" ToolTip="{Binding Text,RelativeSource={RelativeSource Self}}" FontSize="12" Foreground="{StaticResource Muted}" VerticalAlignment="Center"/>
+                  <TextBlock x:Name="SessionClock" Text="" FontSize="12" Foreground="{StaticResource Muted}" Margin="14,0,0,0" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center">
+                  <ToggleButton x:Name="OverlayToggle" Style="{StaticResource WorkspaceToggle}" Click="ShowOverlayClick" ToolTip="显示悬浮字幕" AutomationProperties.Name="悬浮字幕"><StackPanel Orientation="Horizontal"><Path Data="{StaticResource CaptionsIcon}" Style="{StaticResource Icon}" Stroke="{Binding Foreground,ElementName=OverlayToggle}" Width="16" Height="16"/><TextBlock Text="悬浮字幕" Margin="7,0,0,0" FontSize="12"/></StackPanel></ToggleButton>
+                  <ToggleButton x:Name="HistoryButton" Style="{StaticResource WorkspaceToggle}" Click="HistoryClick" ToolTip="查看课堂记录" AutomationProperties.Name="课堂记录" Margin="4,0,0,0"><StackPanel Orientation="Horizontal"><Path Data="{StaticResource HistoryIcon}" Style="{StaticResource Icon}" Stroke="{Binding Foreground,ElementName=HistoryButton}" Width="15" Height="15"/><TextBlock Text="记录" Margin="7,0,0,0" FontSize="12"/></StackPanel></ToggleButton>
+                </StackPanel>
+              </Grid>
+      <Grid x:Name="PanelBody" Grid.Row="2" Margin="24,12,24,24" SizeChanged="PanelBodySizeChanged">
+        <Grid.ColumnDefinitions><ColumnDefinition x:Name="ControlColumn" Width="*"/><ColumnDefinition x:Name="HistoryGap" Width="0"/><ColumnDefinition x:Name="HistoryColumn" Width="0"/></Grid.ColumnDefinitions>
+        <Border x:Name="ControlRail" Background="Transparent">
+          <Grid>
+            <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+            <StackPanel>
+              <TextBlock Text="麦克风" Foreground="{StaticResource Muted}" FontSize="12"/>
+              <Grid Margin="0,9,0,0">
+                <ComboBox x:Name="DeviceBox" AutomationProperties.Name="麦克风">
+                  <ComboBox.ItemTemplate><DataTemplate><Grid ToolTipService.ShowOnDisabled="True" AutomationProperties.Name="{Binding AccessibleName}"><Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+                    <TextBlock Text="{Binding DisplayName}" TextWrapping="NoWrap" TextTrimming="CharacterEllipsis" ToolTip="{Binding Name}" ToolTipService.ShowOnDisabled="True"/>
+                    <Border Grid.Column="1" Width="22" Height="22" Margin="8,0,0,0" Background="Transparent" ToolTip="{Binding Status}" ToolTipService.ShowOnDisabled="True" AutomationProperties.Name="{Binding Status}"><Path Data="{Binding StatusIcon}" Stroke="{Binding StatusColor}" StrokeThickness="1.6" StrokeStartLineCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round" Width="14" Height="14" Stretch="Uniform"/></Border>
+                  </Grid></DataTemplate></ComboBox.ItemTemplate>
+                  <ComboBox.ItemContainerStyle><Style TargetType="ComboBoxItem" BasedOn="{StaticResource {x:Type ComboBoxItem}}"><Setter Property="ToolTipService.ShowOnDisabled" Value="True"/><Setter Property="AutomationProperties.Name" Value="{Binding AccessibleName}"/><Style.Triggers><DataTrigger Binding="{Binding CanRecord}" Value="False"><Setter Property="IsEnabled" Value="False"/><Setter Property="Opacity" Value=".65"/></DataTrigger></Style.Triggers></Style></ComboBox.ItemContainerStyle>
+                </ComboBox>
+                <TextBlock x:Name="DevicePlaceholder" Text="选择麦克风" TextWrapping="NoWrap" TextTrimming="CharacterEllipsis" IsHitTestVisible="False" Foreground="{StaticResource Muted}" VerticalAlignment="Center" Margin="12,0,32,0"><TextBlock.Style><Style TargetType="TextBlock"><Setter Property="Visibility" Value="Collapsed"/><Style.Triggers><DataTrigger Binding="{Binding SelectedIndex,ElementName=DeviceBox}" Value="-1"><Setter Property="Visibility" Value="Visible"/></DataTrigger></Style.Triggers></Style></TextBlock.Style></TextBlock>
+              </Grid>
+              <ProgressBar x:Name="AudioLevel" Minimum="0" Maximum="100" Height="3" Margin="0,8,0,0" ToolTip="麦克风输入音量" AutomationProperties.Name="麦克风输入音量"/>
+              <CheckBox x:Name="NoiseReductionToggle" Content="本地降噪" FontSize="12" Margin="0,16,0,0" MinHeight="32" VerticalContentAlignment="Center" ToolTip="使用 RNNoise 过滤背景噪声，翻译中可随时切换；试听也使用此设置。音量条显示原始输入。" AutomationProperties.Name="本地降噪"/>
+            </StackPanel>
+            <StackPanel Grid.Row="2">
+              <Grid Margin="0,0,0,10">
+                <Button x:Name="StartButton" Style="{StaticResource Primary}" Click="StartClick" MinHeight="46"><StackPanel Orientation="Horizontal"><Path Data="{StaticResource PlayIcon}" Style="{StaticResource Icon}" Stroke="#112725" Width="15" Height="15" Margin="0,0,10,0"/><TextBlock Text="开始翻译"/></StackPanel></Button>
+                <Button x:Name="StopButton" Click="StopClick" Background="#33464B" BorderBrush="#496067" Foreground="#EEF4F2" Visibility="Collapsed" IsEnabled="False" MinHeight="46"><StackPanel Orientation="Horizontal"><Path Data="{StaticResource SquareIcon}" Style="{StaticResource Icon}" Stroke="#EEF4F2" Width="13" Height="13" Margin="0,0,10,0"/><TextBlock x:Name="StopText" Text="结束课堂"/></StackPanel></Button>
+              </Grid>
+              <Grid x:Name="SecondaryActions">
+                <Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="12"/><ColumnDefinition Width="*"/></Grid.ColumnDefinitions>
+                <Button x:Name="DemoButton" Click="DemoClick" MinHeight="42" Background="#1B2C35" BorderBrush="#405861" Content="演示" ToolTip="演示不联网、不计费" AutomationProperties.Name="查看演示"/>
+                <Button x:Name="MoreButton" Grid.Column="2" Click="MoreClick" MinHeight="42" Background="#1B2C35" BorderBrush="#405861" ToolTip="更多工具" AutomationProperties.Name="更多工具"><StackPanel Orientation="Horizontal"><Path Data="{StaticResource EllipsisIcon}" Style="{StaticResource Icon}" Width="17" Height="17"/><TextBlock Text="更多" Margin="10,0,0,0"/></StackPanel></Button>
+              </Grid>
+            </StackPanel>
+          </Grid>
+        </Border>
+          <Border x:Name="HistoryPane" Grid.Column="2" Background="#15262E" CornerRadius="10" Visibility="Collapsed">
+            <Grid Margin="20">
+              <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+              <DockPanel Margin="0,0,0,12"><Button x:Name="HistoryCloseButton" Style="{StaticResource IconButton}" Click="HistoryClick" DockPanel.Dock="Right" ToolTip="关闭记录" AutomationProperties.Name="关闭记录"><Path Data="{StaticResource XIcon}" Style="{StaticResource Icon}" Width="13" Height="13"/></Button><TextBlock Text="课堂记录" FontSize="16" FontWeight="SemiBold" VerticalAlignment="Center"/></DockPanel>
+              <Grid Grid.Row="1"><Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/></Grid.RowDefinitions><TextBlock x:Name="HistoryStatus" Grid.Row="0" FontSize="11" Foreground="{StaticResource Muted}" IsHitTestVisible="False" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,-18,0,0"/><ComboBox x:Name="HistorySessions" SelectionChanged="HistorySessionChanged" AutomationProperties.Name="选择课堂记录" Margin="0,0,0,8"/>
+                <ScrollViewer Grid.Row="1" x:Name="HistoryScroll" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" HorizontalContentAlignment="Stretch"><ItemsControl x:Name="HistoryList"><ItemsControl.ItemTemplate><DataTemplate><Border Padding="0,16" BorderBrush="#273B43" BorderThickness="0,0,0,1"><StackPanel>
+                  <TextBlock Text="{Binding Label}" Foreground="{Binding LabelBrush}" FontSize="10" Margin="0,0,0,6"><TextBlock.Style><Style TargetType="TextBlock"><Style.Triggers><DataTrigger Binding="{Binding Label}" Value=""><Setter Property="Visibility" Value="Collapsed"/></DataTrigger></Style.Triggers></Style></TextBlock.Style></TextBlock>
+                  <TextBlock Text="{Binding Russian}" FontSize="13" LineHeight="21" TextWrapping="Wrap" Foreground="{StaticResource Muted}" Margin="0,0,0,8"/>
+                  <TextBlock Text="{Binding Chinese}" FontSize="17" LineHeight="28" TextWrapping="Wrap" FontFamily="{x:Static local:CaptionTypography.Chinese}"/>
+                </StackPanel></Border></DataTemplate></ItemsControl.ItemTemplate></ItemsControl></ScrollViewer>
+                <StackPanel Grid.Row="1" x:Name="HistoryEmpty" VerticalAlignment="Center" IsHitTestVisible="False"><StackPanel.Style><Style TargetType="StackPanel"><Setter Property="Visibility" Value="Collapsed"/><Style.Triggers><DataTrigger Binding="{Binding HasItems,ElementName=HistoryList}" Value="False"><Setter Property="Visibility" Value="Visible"/></DataTrigger></Style.Triggers></Style></StackPanel.Style><TextBlock Text="暂无记录" FontSize="15" FontWeight="SemiBold"/></StackPanel>
+              </Grid>
+              <Button x:Name="HistoryExportButton" Grid.Row="2" Click="ExportClick" Margin="0,12,0,0" Content="导出文字" IsEnabled="{Binding HasItems,ElementName=HistoryList}"/>
+            </Grid>
+          </Border>
+      </Grid>
+      <Border x:Name="NoticePanel" Grid.Row="3" Visibility="Collapsed" Background="#29423D" BorderBrush="#46645B" BorderThickness="1" CornerRadius="9" Padding="14,10" Margin="24,0,24,18"><TextBlock x:Name="NoticeText" Foreground="#D6EBE4" FontSize="12" MaxHeight="48" TextTrimming="CharacterEllipsis"/></Border>
+      <Popup x:Name="MorePopup" PlacementTarget="{Binding ElementName=MoreButton}" Placement="Top" VerticalOffset="-6" StaysOpen="False" AllowsTransparency="True" PopupAnimation="Fade">
+        <Border Background="#263D46" CornerRadius="12" BorderBrush="#4B6268" BorderThickness="1" Padding="10" Width="285" Margin="8"><ScrollViewer MaxHeight="400" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled"><StackPanel>
+          <Button x:Name="PreviewButton" Click="PreviewClick" Content="试听麦克风" Style="{StaticResource Ghost}" HorizontalContentAlignment="Left"/>
+          <Button Click="AppearanceClick" Content="字幕外观" Style="{StaticResource Ghost}" HorizontalContentAlignment="Left"/>
+          <Button Click="DiagnosticsClick" Content="检测这台电脑" Style="{StaticResource Ghost}" HorizontalContentAlignment="Left"/>
+        </StackPanel></ScrollViewer></Border>
+      </Popup>
+    </Grid>
+  </Border>
+</Window>

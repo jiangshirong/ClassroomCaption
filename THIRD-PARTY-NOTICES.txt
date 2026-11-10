@@ -1,0 +1,35 @@
+NAudio 2.2.1 — MIT License
+https://github.com/naudio/NAudio/tree/v2.2.1
+
+Copyright 2020 Mark Heath
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+.NET / WPF — Microsoft / .NET Foundation and contributors, MIT license.
+The self-contained package contains Microsoft runtime components; additional runtime license and third-party notices are copied alongside the application when available.
+https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
+https://github.com/dotnet/runtime/blob/main/THIRD-PARTY-NOTICES.TXT
+
+Native probe and portable cache launcher — compiled with MinGW-w64 GCC runtime components under their respective runtime exceptions; they use only Windows system DLLs at runtime. The cache launcher uses the Windows Compression API (LZMS) and BCrypt SHA-256.
+https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html
+
+Lucide — MIT License. Vendored outline icon geometry; full notice in LUCIDE-LICENSE.txt.
+https://github.com/lucide-icons/lucide
+
+Noto Sans SC Regular — bundled Chinese caption font, SIL Open Font License 1.1.
+Font is embedded unchanged in ClassroomCaption.dll. Full license: NotoSansSC-OFL.txt / Assets/Fonts/OFL.txt.
+https://github.com/notofonts/noto-cjk
+
+RNNoise 0.2 — Xiph.Org / Jean-Marc Valin and contributors.
+Unmodified official full model and C library, compiled for Windows x64.
+https://github.com/xiph/rnnoise/releases/tag/v0.2
+Full copyright, conditions and disclaimer: RNNoise-COPYING.txt / native/rnnoise/COPYING.
+
+WPF-Math 2.1.0 / XAML-Math — native WPF mathematical formula rendering.
+https://github.com/ForNeVeR/xaml-math
+Code: MIT. Computer Modern fonts: Knuth License; additional font notices in
+XamlMath-LICENSE.md and XamlMath-Fonts-LICENSES.md, included alongside the application.

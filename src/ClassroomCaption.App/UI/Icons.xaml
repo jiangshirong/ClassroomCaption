@@ -1,0 +1,20 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<!-- Lucide, MIT. See LUCIDE-LICENSE.txt. -->
+  <Geometry x:Key="MicIcon">M12 19v3 M19 10v2a7 7 0 0 1-14 0v-2 M12.0,2.0 H12.0 Q15.0,2.0 15.0,5.0 V12.0 Q15.0,15.0 12.0,15.0 H12.0 Q9.0,15.0 9.0,12.0 V5.0 Q9.0,2.0 12.0,2.0 Z</Geometry>
+  <Geometry x:Key="SlidersHorizontalIcon">M10 5H3 M12 19H3 M14 3v4 M16 17v4 M21 12h-9 M21 19h-5 M21 5h-7 M8 10v4 M8 12H3</Geometry>
+  <Geometry x:Key="EllipsisIcon">M11.0,12.0 A1.0,1.0 0 1 0 13.0,12.0 A1.0,1.0 0 1 0 11.0,12.0 M18.0,12.0 A1.0,1.0 0 1 0 20.0,12.0 A1.0,1.0 0 1 0 18.0,12.0 M4.0,12.0 A1.0,1.0 0 1 0 6.0,12.0 A1.0,1.0 0 1 0 4.0,12.0</Geometry>
+  <Geometry x:Key="CaptionsIcon">M5.0,5.0 H19.0 Q21.0,5.0 21.0,7.0 V17.0 Q21.0,19.0 19.0,19.0 H5.0 Q3.0,19.0 3.0,17.0 V7.0 Q3.0,5.0 5.0,5.0 Z M7 15h4M15 15h2M7 11h2M13 11h4</Geometry>
+  <Geometry x:Key="HistoryIcon">M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8 M3 3v5h5 M12 7v5l4 2</Geometry>
+  <Geometry x:Key="PlayIcon">M5 5a2 2 0 0 1 3.008-1.728l11.997 6.998a2 2 0 0 1 .003 3.458l-12 7A2 2 0 0 1 5 19z</Geometry>
+  <Geometry x:Key="SquareIcon">M5.0,3.0 H19.0 Q21.0,3.0 21.0,5.0 V19.0 Q21.0,21.0 19.0,21.0 H5.0 Q3.0,21.0 3.0,19.0 V5.0 Q3.0,3.0 5.0,3.0 Z</Geometry>
+  <Geometry x:Key="XIcon">M18 6 6 18 M6,6 l12 12</Geometry>
+  <Geometry x:Key="MinusIcon">M5 12h14</Geometry>
+  <Geometry x:Key="ArrowRightIcon">M5 12h14 M12,5 l7 7-7 7</Geometry>
+  <Geometry x:Key="HeadphonesIcon">M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3</Geometry>
+  <Geometry x:Key="RefreshCwIcon">M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8 M21 3v5h-5 M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16 M8 16H3v5</Geometry>
+  <Geometry x:Key="DownloadIcon">M12 15V3 M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4 M7,10 l5 5 5-5</Geometry>
+  <Geometry x:Key="ArrowUpRightIcon">M7 7h10v10 M7 17 17 7</Geometry>
+  <Geometry x:Key="CheckIcon">M20 6 9 17l-5-5</Geometry>
+  <Geometry x:Key="ChevronDownIcon">M6,9 l6 6 6-6</Geometry>
+  <Geometry x:Key="LockKeyholeIcon">M11.0,16.0 A1.0,1.0 0 1 0 13.0,16.0 A1.0,1.0 0 1 0 11.0,16.0 M5.0,10.0 H19.0 Q21.0,10.0 21.0,12.0 V20.0 Q21.0,22.0 19.0,22.0 H5.0 Q3.0,22.0 3.0,20.0 V12.0 Q3.0,10.0 5.0,10.0 Z M7 10V7a5 5 0 0 1 10 0v3</Geometry>
+</ResourceDictionary>

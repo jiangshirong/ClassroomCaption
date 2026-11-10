@@ -1,0 +1,6127 @@
+[
+  {
+    "source": "качка судна",
+    "target": "船舶摇荡",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 1,
+        "matchedText": "качка судна"
+      },
+      {
+        "file": "1a\\1.pptx",
+        "slide": 2,
+        "matchedText": "качка судна"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 1,
+        "matchedText": "качка судна"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 1,
+        "matchedText": "качка судна"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 130,
+        "matchedText": "качка судна"
+      }
+    ]
+  },
+  {
+    "source": "остойчивость",
+    "target": "稳性",
+    "references": [
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 2,
+        "matchedText": "остойчивость"
+      },
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 10,
+        "matchedText": "остойчивость"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 22,
+        "matchedText": "остойчивость"
+      }
+    ]
+  },
+  {
+    "source": "водоизмещение",
+    "target": "排水量",
+    "references": [
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 5,
+        "matchedText": "водоизмещение"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 2,
+        "matchedText": "водоизмещение"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 4,
+        "matchedText": "водоизмещение"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 6,
+        "matchedText": "водоизмещение"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 14,
+        "matchedText": "водоизмещение"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 4,
+        "matchedText": "водоизмещение"
+      }
+    ]
+  },
+  {
+    "source": "плавучесть",
+    "target": "浮性",
+    "references": [
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 2,
+        "matchedText": "плавучесть"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 773,
+        "matchedText": "плавучесть"
+      }
+    ]
+  },
+  {
+    "source": "управляемость",
+    "target": "操纵性",
+    "references": [
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 2,
+        "matchedText": "управляемость"
+      }
+    ]
+  },
+  {
+    "source": "возмущающие воздействия",
+    "target": "扰动作用",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 3,
+        "matchedText": "возмущающие воздействия"
+      }
+    ]
+  },
+  {
+    "source": "морское волнение",
+    "target": "海浪",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 3,
+        "matchedText": "морское волнение"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 3,
+        "matchedText": "морское волнение"
+      }
+    ]
+  },
+  {
+    "source": "смещение грузов",
+    "target": "货物移动",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 3,
+        "matchedText": "смещение грузов"
+      }
+    ]
+  },
+  {
+    "source": "переливание жидкости",
+    "target": "液体晃荡",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 3,
+        "matchedText": "переливание жидкости"
+      }
+    ]
+  },
+  {
+    "source": "продольно-горизонтальная качка",
+    "target": "纵荡",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 13,
+        "matchedText": "продольно-горизонтальная качка"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 3,
+        "matchedText": "продольно-горизонтальная качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 11,
+        "matchedText": "продольно-горизонтальная качка"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "продольно-горизонтальная качка"
+      }
+    ]
+  },
+  {
+    "source": "поперечно-горизонтальная качка",
+    "target": "横荡",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 13,
+        "matchedText": "поперечно-горизонтальная качка"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 6,
+        "matchedText": "поперечно-горизонтальная качка"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 8,
+        "matchedText": "поперечно-горизонтальная качка"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "поперечно-горизонтальная качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2826,
+        "matchedText": "поперечно-горизонтальная качка"
+      }
+    ]
+  },
+  {
+    "source": "вертикальная качка",
+    "target": "垂荡",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 14,
+        "matchedText": "вертикальная качка"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 4,
+        "matchedText": "вертикальная качка"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 8,
+        "matchedText": "вертикальная качка"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 3,
+        "matchedText": "вертикальная качка"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 19,
+        "matchedText": "вертикальная качка"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 25,
+        "matchedText": "вертикальная качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 7,
+        "matchedText": "вертикальная качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 8,
+        "matchedText": "вертикальная качка"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 4,
+        "matchedText": "вертикальная качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 3729,
+        "matchedText": "вертикальная качка"
+      }
+    ]
+  },
+  {
+    "source": "бортовая качка",
+    "target": "横摇",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 15,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 4,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 9,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 3,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 9,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 11,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 19,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 22,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 25,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 12,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 12,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 2,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 5,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 13,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3370,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 143,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 278,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 449,
+        "matchedText": "бортовая качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2826,
+        "matchedText": "бортовая качка"
+      }
+    ]
+  },
+  {
+    "source": "килевая качка",
+    "target": "纵摇",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 15,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 4,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 5,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 3,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 12,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 12,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 13,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 119,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 278,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 449,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 492,
+        "matchedText": "килевая качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-111046-c201c3.jsonl",
+        "slide": 0,
+        "line": 486,
+        "matchedText": "килевая качка"
+      }
+    ]
+  },
+  {
+    "source": "рысканье",
+    "target": "艏摇",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 4,
+        "matchedText": "рысканье"
+      },
+      {
+        "file": "1a\\1.pptx",
+        "slide": 5,
+        "matchedText": "рысканье"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 6,
+        "matchedText": "рысканье"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 8,
+        "matchedText": "рысканье"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 5,
+        "matchedText": "рысканье"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 2,
+        "matchedText": "рысканье"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 11,
+        "matchedText": "рысканье"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "рысканье"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 366,
+        "matchedText": "рысканье"
+      }
+    ]
+  },
+  {
+    "source": "умеренность качки",
+    "target": "摇荡缓和性",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 6,
+        "matchedText": "умеренность качки"
+      },
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 2,
+        "matchedText": "умеренность качки"
+      }
+    ]
+  },
+  {
+    "source": "амплитуда",
+    "target": "振幅",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 6,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 7,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 10,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 2,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 7,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 5,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 2,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 6,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 7,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 8,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 13,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 4,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 12,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 11,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 825,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1119,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1856,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1887,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 683,
+        "matchedText": "амплитуда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2086,
+        "matchedText": "амплитуда"
+      }
+    ]
+  },
+  {
+    "source": "скорость",
+    "target": "速度",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 6,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 15,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 4,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 14,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 13,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 2,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 2,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 5,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 7,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 8,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 11,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 8,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 4,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 6,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 7,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 8,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 12,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 7,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 9,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 3,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 449,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3142,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3239,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4014,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4053,
+        "matchedText": "скорость"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4241,
+        "matchedText": "скорость"
+      }
+    ]
+  },
+  {
+    "source": "ускорение",
+    "target": "加速度",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 6,
+        "matchedText": "ускорение"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 15,
+        "matchedText": "ускорение"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 14,
+        "matchedText": "ускорение"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 13,
+        "matchedText": "ускорение"
+      },
+      {
+        "file": "1a\\3.pptx",
+        "slide": 3,
+        "matchedText": "ускорение"
+      },
+      {
+        "file": "1a\\3.pptx",
+        "slide": 9,
+        "matchedText": "ускорение"
+      },
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 5,
+        "matchedText": "ускорение"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 11,
+        "matchedText": "ускорение"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3317,
+        "matchedText": "ускорение"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4053,
+        "matchedText": "ускорение"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 2082,
+        "matchedText": "ускорение"
+      }
+    ]
+  },
+  {
+    "source": "абсолютно твердое тело",
+    "target": "刚体",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 2,
+        "matchedText": "абсолютно твердое тело"
+      }
+    ]
+  },
+  {
+    "source": "поступательное движение",
+    "target": "平动",
+    "references": [
+      {
+        "file": "1a\\3.pptx",
+        "slide": 3,
+        "matchedText": "поступательное движение"
+      }
+    ]
+  },
+  {
+    "source": "вращательное движение",
+    "target": "转动",
+    "references": [
+      {
+        "file": "1a\\3.pptx",
+        "slide": 4,
+        "matchedText": "вращательное движение"
+      }
+    ]
+  },
+  {
+    "source": "система координат",
+    "target": "坐标系",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 7,
+        "matchedText": "система координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 12,
+        "matchedText": "система координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 6,
+        "matchedText": "система координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 11,
+        "matchedText": "система координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 5,
+        "matchedText": "система координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 10,
+        "matchedText": "система координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 4,
+        "matchedText": "система координат"
+      }
+    ]
+  },
+  {
+    "source": "системы координат",
+    "target": "坐标系",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 1,
+        "matchedText": "системы координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 3,
+        "matchedText": "системы координат"
+      },
+      {
+        "file": "1a\\3.pptx",
+        "slide": 2,
+        "matchedText": "системы координат"
+      }
+    ]
+  },
+  {
+    "source": "абсолютная система координат",
+    "target": "绝对坐标系",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 5,
+        "matchedText": "абсолютная система координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 4,
+        "matchedText": "абсолютная система координат"
+      }
+    ]
+  },
+  {
+    "source": "полуподвижная система координат",
+    "target": "半随体坐标系",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 7,
+        "matchedText": "полуподвижная система координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 6,
+        "matchedText": "полуподвижная система координат"
+      }
+    ]
+  },
+  {
+    "source": "подвижная система координат",
+    "target": "随体坐标系",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 12,
+        "matchedText": "подвижная система координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 11,
+        "matchedText": "подвижная система координат"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 10,
+        "matchedText": "подвижная система координат"
+      }
+    ]
+  },
+  {
+    "source": "центр тяжести",
+    "target": "重心",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 5,
+        "matchedText": "центр тяжести"
+      }
+    ]
+  },
+  {
+    "source": "угол крена",
+    "target": "横倾角",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 15,
+        "matchedText": "угол крена"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 3,
+        "matchedText": "угол крена"
+      }
+    ]
+  },
+  {
+    "source": "дифферент",
+    "target": "纵倾",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 6,
+        "matchedText": "дифферент"
+      }
+    ]
+  },
+  {
+    "source": "угол дифферента",
+    "target": "纵倾角",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 15,
+        "matchedText": "угол дифферента"
+      }
+    ]
+  },
+  {
+    "source": "курсовой угол",
+    "target": "浪向角",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 4,
+        "matchedText": "курсовой угол"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 3,
+        "matchedText": "курсовой угол"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 2,
+        "matchedText": "курсовой угол"
+      }
+    ]
+  },
+  {
+    "source": "боковое волнение",
+    "target": "横浪",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 5,
+        "matchedText": "боковое волнение"
+      }
+    ]
+  },
+  {
+    "source": "встречное волнение",
+    "target": "顶浪",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 5,
+        "matchedText": "встречное волнение"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 3,
+        "matchedText": "встречное волнение"
+      }
+    ]
+  },
+  {
+    "source": "попутное волнение",
+    "target": "顺浪",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 5,
+        "matchedText": "попутное волнение"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 3,
+        "matchedText": "попутное волнение"
+      }
+    ]
+  },
+  {
+    "source": "степеней свободы",
+    "target": "自由度",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 2,
+        "matchedText": "степеней свободы"
+      }
+    ]
+  },
+  {
+    "source": "уравнения движения",
+    "target": "运动方程",
+    "references": [
+      {
+        "file": "1a\\3.pptx",
+        "slide": 1,
+        "matchedText": "уравнения движения"
+      },
+      {
+        "file": "1a\\3.pptx",
+        "slide": 10,
+        "matchedText": "уравнения движения"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 2,
+        "matchedText": "уравнения движения"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 3,
+        "matchedText": "уравнения движения"
+      }
+    ]
+  },
+  {
+    "source": "второй закон Ньютона",
+    "target": "牛顿第二定律",
+    "references": [
+      {
+        "file": "1a\\3.pptx",
+        "slide": 3,
+        "matchedText": "второй закон Ньютона"
+      }
+    ]
+  },
+  {
+    "source": "момент инерции",
+    "target": "转动惯量",
+    "references": [
+      {
+        "file": "1a\\3.pptx",
+        "slide": 5,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 3,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 14,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 18,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 7,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 9,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 6,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 5,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 163,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 203,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 867,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3940,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 715,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4682,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4797,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 6175,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 6208,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 6305,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 6907,
+        "matchedText": "момент инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1403,
+        "matchedText": "момент инерции"
+      }
+    ]
+  },
+  {
+    "source": "моменты инерции",
+    "target": "转动惯量",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 16,
+        "matchedText": "моменты инерции"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 17,
+        "matchedText": "моменты инерции"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 9,
+        "matchedText": "моменты инерции"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 7,
+        "matchedText": "моменты инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4682,
+        "matchedText": "моменты инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5945,
+        "matchedText": "моменты инерции"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 6066,
+        "matchedText": "моменты инерции"
+      }
+    ]
+  },
+  {
+    "source": "тензор моментов инерции",
+    "target": "惯性张量",
+    "references": [
+      {
+        "file": "1a\\3.pptx",
+        "slide": 4,
+        "matchedText": "тензор моментов инерции"
+      },
+      {
+        "file": "1a\\3.pptx",
+        "slide": 5,
+        "matchedText": "тензор моментов инерции"
+      }
+    ]
+  },
+  {
+    "source": "угловая скорость",
+    "target": "角速度",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 6,
+        "matchedText": "угловая скорость"
+      },
+      {
+        "file": "1a\\2.pptx",
+        "slide": 15,
+        "matchedText": "угловая скорость"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 449,
+        "matchedText": "угловая скорость"
+      }
+    ]
+  },
+  {
+    "source": "силы и моменты",
+    "target": "力与力矩",
+    "references": [
+      {
+        "file": "1a\\3.pptx",
+        "slide": 8,
+        "matchedText": "силы и моменты"
+      },
+      {
+        "file": "1a\\3.pptx",
+        "slide": 9,
+        "matchedText": "силы и моменты"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 1,
+        "matchedText": "силы и моменты"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 4,
+        "matchedText": "силы и моменты"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 2,
+        "matchedText": "силы и моменты"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 7,
+        "matchedText": "силы и моменты"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 8,
+        "matchedText": "силы и моменты"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 9,
+        "matchedText": "силы и моменты"
+      }
+    ]
+  },
+  {
+    "source": "гидростатические силы",
+    "target": "静水力",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 54,
+        "matchedText": "гидростатические силы"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 258,
+        "matchedText": "гидростатические силы"
+      }
+    ]
+  },
+  {
+    "source": "восстанавливающие силы",
+    "target": "恢复力",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 4,
+        "matchedText": "восстанавливающие силы"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 9,
+        "matchedText": "восстанавливающие силы"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 2,
+        "matchedText": "восстанавливающие силы"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 3,
+        "matchedText": "восстанавливающие силы"
+      }
+    ]
+  },
+  {
+    "source": "восстанавливающие силы и моменты",
+    "target": "恢复力与恢复力矩",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 4,
+        "matchedText": "восстанавливающие силы и моменты"
+      }
+    ]
+  },
+  {
+    "source": "сила плавучести",
+    "target": "浮力",
+    "references": [
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 5,
+        "matchedText": "сила плавучести"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 2,
+        "matchedText": "сила плавучести"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 6,
+        "matchedText": "сила плавучести"
+      }
+    ]
+  },
+  {
+    "source": "сила тяжести",
+    "target": "重力",
+    "references": [
+      {
+        "file": "1a\\3.pptx",
+        "slide": 3,
+        "matchedText": "сила тяжести"
+      }
+    ]
+  },
+  {
+    "source": "положение равновесия",
+    "target": "平衡位置",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 2,
+        "matchedText": "положение равновесия"
+      }
+    ]
+  },
+  {
+    "source": "линеаризация",
+    "target": "线性化",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 3,
+        "matchedText": "линеаризация"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 11,
+        "matchedText": "линеаризация"
+      }
+    ]
+  },
+  {
+    "source": "ряд Тейлора",
+    "target": "泰勒级数",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 3,
+        "matchedText": "ряд Тейлора"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 9,
+        "matchedText": "ряд Тейлора"
+      }
+    ]
+  },
+  {
+    "source": "площадь ватерлинии",
+    "target": "水线面面积",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 9,
+        "matchedText": "площадь ватерлинии"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 20,
+        "matchedText": "площадь ватерлинии"
+      }
+    ]
+  },
+  {
+    "source": "площади ватерлинии",
+    "target": "水线面面积",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 5,
+        "matchedText": "площади ватерлинии"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 6,
+        "matchedText": "площади ватерлинии"
+      },
+      {
+        "file": "1p\\4.pptx",
+        "slide": 9,
+        "matchedText": "площади ватерлинии"
+      }
+    ]
+  },
+  {
+    "source": "метацентрическая высота",
+    "target": "稳心高",
+    "references": [
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 14,
+        "matchedText": "метацентрическая высота"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 22,
+        "matchedText": "метацентрическая высота"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 9,
+        "matchedText": "метацентрическая высота"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 4,
+        "matchedText": "метацентрическая высота"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3753,
+        "matchedText": "метацентрическая высота"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3995,
+        "matchedText": "метацентрическая высота"
+      }
+    ]
+  },
+  {
+    "source": "метацентрической высотой",
+    "target": "稳心高",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 4,
+        "matchedText": "метацентрической высотой"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 21,
+        "matchedText": "метацентрической высотой"
+      }
+    ]
+  },
+  {
+    "source": "метацентрический радиус",
+    "target": "稳心半径",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 4,
+        "matchedText": "метацентрический радиус"
+      }
+    ]
+  },
+  {
+    "source": "метацентрическому радиусу",
+    "target": "稳心半径",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 21,
+        "matchedText": "метацентрическому радиусу"
+      }
+    ]
+  },
+  {
+    "source": "внедиагональные коэффициенты",
+    "target": "非对角系数",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 8,
+        "matchedText": "внедиагональные коэффициенты"
+      }
+    ]
+  },
+  {
+    "source": "гидростатических коэффициентов",
+    "target": "静水恢复系数",
+    "references": [
+      {
+        "file": "1p\\4.pptx",
+        "slide": 7,
+        "matchedText": "гидростатических коэффициентов"
+      }
+    ]
+  },
+  {
+    "source": "инерционно-демпфирующие силы",
+    "target": "惯性阻尼力",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 1,
+        "matchedText": "инерционно-демпфирующие силы"
+      }
+    ]
+  },
+  {
+    "source": "демпфирующие силы",
+    "target": "阻尼力",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 1,
+        "matchedText": "демпфирующие силы"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 3,
+        "matchedText": "демпфирующие силы"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 6,
+        "matchedText": "демпфирующие силы"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 13,
+        "matchedText": "демпфирующие силы"
+      }
+    ]
+  },
+  {
+    "source": "демпфирование",
+    "target": "阻尼",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 7,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 9,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 3,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 8,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 9,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 11,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 2,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 3,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 6,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 8,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 2,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 8,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 5,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 9,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 8,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 8,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 376,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1358,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2426,
+        "matchedText": "демпфирование"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2709,
+        "matchedText": "демпфирование"
+      }
+    ]
+  },
+  {
+    "source": "коэффициент демпфирования",
+    "target": "阻尼系数",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 3,
+        "matchedText": "коэффициент демпфирования"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 10,
+        "matchedText": "коэффициент демпфирования"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 11,
+        "matchedText": "коэффициент демпфирования"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 10,
+        "matchedText": "коэффициент демпфирования"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 2,
+        "matchedText": "коэффициент демпфирования"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 11,
+        "matchedText": "коэффициент демпфирования"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 8,
+        "matchedText": "коэффициент демпфирования"
+      }
+    ]
+  },
+  {
+    "source": "присоединённая масса",
+    "target": "附加质量",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 11,
+        "matchedText": "присоединённая масса"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 4,
+        "matchedText": "присоединённая масса"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 18,
+        "matchedText": "присоединённая масса"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 555,
+        "matchedText": "присоединённая масса"
+      }
+    ]
+  },
+  {
+    "source": "присоединённые массы",
+    "target": "附加质量",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 11,
+        "matchedText": "присоединённые массы"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 12,
+        "matchedText": "присоединённые массы"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 2,
+        "matchedText": "присоединённые массы"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 5,
+        "matchedText": "присоединённые массы"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 16,
+        "matchedText": "присоединённые массы"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 18,
+        "matchedText": "присоединённые массы"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 19,
+        "matchedText": "присоединённые массы"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "присоединённые массы"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 9,
+        "matchedText": "присоединённые массы"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 8,
+        "matchedText": "присоединённые массы"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1358,
+        "matchedText": "присоединённые массы"
+      }
+    ]
+  },
+  {
+    "source": "присоединенная масса",
+    "target": "附加质量",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 11,
+        "matchedText": "присоединенная масса"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 4,
+        "matchedText": "присоединенная масса"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 18,
+        "matchedText": "присоединенная масса"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 555,
+        "matchedText": "присоединенная масса"
+      }
+    ]
+  },
+  {
+    "source": "присоединенные массы",
+    "target": "附加质量",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 11,
+        "matchedText": "присоединенные массы"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 12,
+        "matchedText": "присоединенные массы"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 2,
+        "matchedText": "присоединенные массы"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 5,
+        "matchedText": "присоединенные массы"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 16,
+        "matchedText": "присоединенные массы"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 18,
+        "matchedText": "присоединенные массы"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 19,
+        "matchedText": "присоединенные массы"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "присоединенные массы"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 9,
+        "matchedText": "присоединенные массы"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 8,
+        "matchedText": "присоединенные массы"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1358,
+        "matchedText": "присоединенные массы"
+      }
+    ]
+  },
+  {
+    "source": "присоединённый момент инерции",
+    "target": "附加转动惯量",
+    "references": [
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 3,
+        "matchedText": "присоединённый момент инерции"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 14,
+        "matchedText": "присоединённый момент инерции"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 18,
+        "matchedText": "присоединённый момент инерции"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 6,
+        "matchedText": "присоединённый момент инерции"
+      }
+    ]
+  },
+  {
+    "source": "присоединенных масс",
+    "target": "附加质量",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 12,
+        "matchedText": "присоединенных масс"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 1,
+        "matchedText": "присоединенных масс"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 2,
+        "matchedText": "присоединенных масс"
+      }
+    ]
+  },
+  {
+    "source": "инерционные силы",
+    "target": "惯性力",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 11,
+        "matchedText": "инерционные силы"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 13,
+        "matchedText": "инерционные силы"
+      }
+    ]
+  },
+  {
+    "source": "сопротивление воды",
+    "target": "水阻力",
+    "references": [
+      {
+        "file": "1a\\3.pptx",
+        "slide": 9,
+        "matchedText": "сопротивление воды"
+      }
+    ]
+  },
+  {
+    "source": "свободные колебания",
+    "target": "自由振动",
+    "references": [
+      {
+        "file": "2a\\6.pptx",
+        "slide": 1,
+        "matchedText": "свободные колебания"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 14,
+        "matchedText": "свободные колебания"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 2082,
+        "matchedText": "свободные колебания"
+      }
+    ]
+  },
+  {
+    "source": "вынужденные колебания",
+    "target": "受迫振动",
+    "references": [
+      {
+        "file": "1a\\1.pptx",
+        "slide": 3,
+        "matchedText": "вынужденные колебания"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 10,
+        "matchedText": "вынужденные колебания"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 3,
+        "matchedText": "вынужденные колебания"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 4,
+        "matchedText": "вынужденные колебания"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 11,
+        "matchedText": "вынужденные колебания"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 12,
+        "matchedText": "вынужденные колебания"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 2082,
+        "matchedText": "вынужденные колебания"
+      }
+    ]
+  },
+  {
+    "source": "затухающие колебания",
+    "target": "衰减振动",
+    "references": [
+      {
+        "file": "2a\\7.pptx",
+        "slide": 9,
+        "matchedText": "затухающие колебания"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 4,
+        "matchedText": "затухающие колебания"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 11,
+        "matchedText": "затухающие колебания"
+      }
+    ]
+  },
+  {
+    "source": "собственная частота",
+    "target": "固有频率",
+    "references": [
+      {
+        "file": "2a\\6.pptx",
+        "slide": 11,
+        "matchedText": "собственная частота"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 8,
+        "matchedText": "собственная частота"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 19,
+        "matchedText": "собственная частота"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 7,
+        "matchedText": "собственная частота"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 469,
+        "matchedText": "собственная частота"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1108,
+        "matchedText": "собственная частота"
+      }
+    ]
+  },
+  {
+    "source": "собственной частоте",
+    "target": "固有频率",
+    "references": [
+      {
+        "file": "2a\\6.pptx",
+        "slide": 10,
+        "matchedText": "собственной частоте"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 9,
+        "matchedText": "собственной частоте"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 8,
+        "matchedText": "собственной частоте"
+      }
+    ]
+  },
+  {
+    "source": "собственные частоты",
+    "target": "固有频率",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 8,
+        "matchedText": "собственные частоты"
+      }
+    ]
+  },
+  {
+    "source": "собственных частот",
+    "target": "固有频率",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 19,
+        "matchedText": "собственных частот"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 1394,
+        "matchedText": "собственных частот"
+      }
+    ]
+  },
+  {
+    "source": "собственные периоды",
+    "target": "固有周期",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 1,
+        "matchedText": "собственные периоды"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 16,
+        "matchedText": "собственные периоды"
+      }
+    ]
+  },
+  {
+    "source": "период качки",
+    "target": "摇荡周期",
+    "references": [
+      {
+        "file": "2a\\6.pptx",
+        "slide": 11,
+        "matchedText": "период качки"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 8,
+        "matchedText": "период качки"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 6,
+        "matchedText": "период качки"
+      }
+    ]
+  },
+  {
+    "source": "период волны",
+    "target": "波浪周期",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 16,
+        "matchedText": "период волны"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 6,
+        "matchedText": "период волны"
+      }
+    ]
+  },
+  {
+    "source": "частота волны",
+    "target": "波浪频率",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 4,
+        "matchedText": "частота волны"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 13,
+        "matchedText": "частота волны"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 7,
+        "matchedText": "частота волны"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 469,
+        "matchedText": "частота волны"
+      }
+    ]
+  },
+  {
+    "source": "частоты волны",
+    "target": "波浪频率",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 12,
+        "matchedText": "частоты волны"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 2,
+        "matchedText": "частоты волны"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 8,
+        "matchedText": "частоты волны"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 12,
+        "matchedText": "частоты волны"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 2,
+        "matchedText": "частоты волны"
+      }
+    ]
+  },
+  {
+    "source": "логарифмический декремент",
+    "target": "对数衰减率",
+    "references": [
+      {
+        "file": "2a\\6.pptx",
+        "slide": 10,
+        "matchedText": "логарифмический декремент"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 11,
+        "matchedText": "логарифмический декремент"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 9,
+        "matchedText": "логарифмический декремент"
+      },
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 5,
+        "matchedText": "логарифмический декремент"
+      }
+    ]
+  },
+  {
+    "source": "декремент затухания",
+    "target": "衰减率",
+    "references": [
+      {
+        "file": "2a\\6.pptx",
+        "slide": 9,
+        "matchedText": "декремент затухания"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 10,
+        "matchedText": "декремент затухания"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 11,
+        "matchedText": "декремент затухания"
+      }
+    ]
+  },
+  {
+    "source": "регулярное волнение",
+    "target": "规则波",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 3,
+        "matchedText": "регулярное волнение"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 2,
+        "matchedText": "регулярное волнение"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-111046-c201c3.jsonl",
+        "slide": 0,
+        "line": 250,
+        "matchedText": "регулярное волнение"
+      }
+    ]
+  },
+  {
+    "source": "регулярном волнении",
+    "target": "规则波",
+    "references": [
+      {
+        "file": "3a\\9.pptx",
+        "slide": 1,
+        "matchedText": "регулярном волнении"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 2,
+        "matchedText": "регулярном волнении"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 1,
+        "matchedText": "регулярном волнении"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 1,
+        "matchedText": "регулярном волнении"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 130,
+        "matchedText": "регулярном волнении"
+      }
+    ]
+  },
+  {
+    "source": "регулярная волна",
+    "target": "规则波",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 4,
+        "matchedText": "регулярная волна"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 12,
+        "matchedText": "регулярная волна"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2555,
+        "matchedText": "регулярная волна"
+      }
+    ]
+  },
+  {
+    "source": "ветровое волнение",
+    "target": "风浪",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 3,
+        "matchedText": "ветровое волнение"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 5,
+        "matchedText": "ветровое волнение"
+      }
+    ]
+  },
+  {
+    "source": "зыбь",
+    "target": "涌浪",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 3,
+        "matchedText": "зыбь"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 5,
+        "matchedText": "зыбь"
+      }
+    ]
+  },
+  {
+    "source": "длина волны",
+    "target": "波长",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 4,
+        "matchedText": "длина волны"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 10,
+        "matchedText": "длина волны"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 7,
+        "matchedText": "длина волны"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 12,
+        "matchedText": "длина волны"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1948,
+        "matchedText": "длина волны"
+      }
+    ]
+  },
+  {
+    "source": "длиной волны",
+    "target": "波长",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 8,
+        "matchedText": "длиной волны"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 9,
+        "matchedText": "длиной волны"
+      }
+    ]
+  },
+  {
+    "source": "высота волны",
+    "target": "波高",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 7,
+        "matchedText": "высота волны"
+      }
+    ]
+  },
+  {
+    "source": "гребень",
+    "target": "波峰",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 5,
+        "matchedText": "гребень"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 10,
+        "matchedText": "гребень"
+      }
+    ]
+  },
+  {
+    "source": "гребнями",
+    "target": "波峰",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 4,
+        "matchedText": "гребнями"
+      }
+    ]
+  },
+  {
+    "source": "подошвы",
+    "target": "波谷",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 4,
+        "matchedText": "подошвы"
+      }
+    ]
+  },
+  {
+    "source": "волновое число",
+    "target": "波数",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 4,
+        "matchedText": "волновое число"
+      }
+    ]
+  },
+  {
+    "source": "угол волнового склона",
+    "target": "波面倾角",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 5,
+        "matchedText": "угол волнового склона"
+      }
+    ]
+  },
+  {
+    "source": "углом волнового склона",
+    "target": "波面倾角",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 5,
+        "matchedText": "углом волнового склона"
+      }
+    ]
+  },
+  {
+    "source": "волновое давление",
+    "target": "波浪压力",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 6,
+        "matchedText": "волновое давление"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 12,
+        "matchedText": "волновое давление"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 7,
+        "matchedText": "волновое давление"
+      }
+    ]
+  },
+  {
+    "source": "гипотеза Фруда–Крылова",
+    "target": "傅汝德—克雷洛夫假说",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 7,
+        "matchedText": "гипотеза Фруда–Крылова"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 12,
+        "matchedText": "гипотеза Фруда–Крылова"
+      }
+    ]
+  },
+  {
+    "source": "силы Фруда–Крылова",
+    "target": "傅汝德—克雷洛夫力",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 8,
+        "matchedText": "силы Фруда–Крылова"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 9,
+        "matchedText": "силы Фруда–Крылова"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 10,
+        "matchedText": "силы Фруда–Крылова"
+      }
+    ]
+  },
+  {
+    "source": "дифракционные силы",
+    "target": "绕射力",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 8,
+        "matchedText": "дифракционные силы"
+      }
+    ]
+  },
+  {
+    "source": "смоченная поверхность",
+    "target": "湿表面",
+    "references": [
+      {
+        "file": "2a\\7.pptx",
+        "slide": 7,
+        "matchedText": "смоченная поверхность"
+      }
+    ]
+  },
+  {
+    "source": "смоченной поверхности",
+    "target": "湿表面",
+    "references": [
+      {
+        "file": "2a\\7.pptx",
+        "slide": 2,
+        "matchedText": "смоченной поверхности"
+      },
+      {
+        "file": "2a\\7.pptx",
+        "slide": 6,
+        "matchedText": "смоченной поверхности"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 7,
+        "matchedText": "смоченной поверхности"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 12,
+        "matchedText": "смоченной поверхности"
+      }
+    ]
+  },
+  {
+    "source": "возмущающие силы",
+    "target": "激励力",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 13,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 1,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 2,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 6,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 7,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 8,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 10,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 11,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 12,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 7,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 8,
+        "matchedText": "возмущающие силы"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 383,
+        "matchedText": "возмущающие силы"
+      }
+    ]
+  },
+  {
+    "source": "возмущающие силы и моменты",
+    "target": "激励力与激励力矩",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 2,
+        "matchedText": "возмущающие силы и моменты"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 7,
+        "matchedText": "возмущающие силы и моменты"
+      }
+    ]
+  },
+  {
+    "source": "редукционные коэффициенты",
+    "target": "折减系数",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 10,
+        "matchedText": "редукционные коэффициенты"
+      },
+      {
+        "file": "3a\\8.pptx",
+        "slide": 12,
+        "matchedText": "редукционные коэффициенты"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 11,
+        "matchedText": "редукционные коэффициенты"
+      }
+    ]
+  },
+  {
+    "source": "редукционных коэффициентов",
+    "target": "折减系数",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 11,
+        "matchedText": "редукционных коэффициентов"
+      }
+    ]
+  },
+  {
+    "source": "изолированная качка",
+    "target": "独立摇荡",
+    "references": [
+      {
+        "file": "3a\\9.pptx",
+        "slide": 1,
+        "matchedText": "изолированная качка"
+      }
+    ]
+  },
+  {
+    "source": "перекрёстные члены",
+    "target": "耦合项",
+    "references": [
+      {
+        "file": "4a\\12.pptx",
+        "slide": 7,
+        "matchedText": "перекрёстные члены"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 2,
+        "matchedText": "перекрёстные члены"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 3,
+        "matchedText": "перекрёстные члены"
+      }
+    ]
+  },
+  {
+    "source": "амплитудно-частотная характеристика",
+    "target": "幅频特性",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1069,
+        "matchedText": "амплитудно-частотная характеристика"
+      }
+    ]
+  },
+  {
+    "source": "фазо-частотная характеристика",
+    "target": "相频特性",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1069,
+        "matchedText": "фазо-частотная характеристика"
+      }
+    ]
+  },
+  {
+    "source": "АЧХ",
+    "target": "幅频特性",
+    "references": [
+      {
+        "file": "2a\\7.pptx",
+        "slide": 8,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 7,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 9,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 11,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 12,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 7,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 13,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 14,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 7,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 12,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 6,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 5,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 10,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 4,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 9,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 8,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 13,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 5,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 4,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 12,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 2,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 11,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 3,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3292,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 4915,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 5067,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1028,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 431,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1858,
+        "matchedText": "АЧХ"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2760,
+        "matchedText": "АЧХ"
+      }
+    ]
+  },
+  {
+    "source": "ФЧХ",
+    "target": "相频特性",
+    "references": [
+      {
+        "file": "3a\\9.pptx",
+        "slide": 7,
+        "matchedText": "ФЧХ"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 12,
+        "matchedText": "ФЧХ"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 13,
+        "matchedText": "ФЧХ"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 14,
+        "matchedText": "ФЧХ"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 12,
+        "matchedText": "ФЧХ"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 2,
+        "matchedText": "ФЧХ"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 11,
+        "matchedText": "ФЧХ"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 3,
+        "matchedText": "ФЧХ"
+      }
+    ]
+  },
+  {
+    "source": "сдвиг фазы",
+    "target": "相位差",
+    "references": [
+      {
+        "file": "3a\\9.pptx",
+        "slide": 7,
+        "matchedText": "сдвиг фазы"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 8,
+        "matchedText": "сдвиг фазы"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 13,
+        "matchedText": "сдвиг фазы"
+      }
+    ]
+  },
+  {
+    "source": "фаза",
+    "target": "相位",
+    "references": [
+      {
+        "file": "3a\\9.pptx",
+        "slide": 6,
+        "matchedText": "фаза"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 10,
+        "matchedText": "фаза"
+      }
+    ]
+  },
+  {
+    "source": "резонанс",
+    "target": "共振",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 16,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 24,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 25,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 26,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 8,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "3a\\9.pptx",
+        "slide": 12,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 11,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 5,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 4,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 9,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 3,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 7,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 8,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1108,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1112,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1119,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 4851,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 851,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 898,
+        "matchedText": "резонанс"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1363,
+        "matchedText": "резонанс"
+      }
+    ]
+  },
+  {
+    "source": "безразмерная частота",
+    "target": "无量纲频率",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1082,
+        "matchedText": "безразмерная частота"
+      }
+    ]
+  },
+  {
+    "source": "безразмерных",
+    "target": "无量纲",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "безразмерных"
+      }
+    ]
+  },
+  {
+    "source": "капитанская формула",
+    "target": "船长公式",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 23,
+        "matchedText": "капитанская формула"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 24,
+        "matchedText": "капитанская формула"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 26,
+        "matchedText": "капитанская формула"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 4571,
+        "matchedText": "капитанская формула"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 4688,
+        "matchedText": "капитанская формула"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 851,
+        "matchedText": "капитанская формула"
+      }
+    ]
+  },
+  {
+    "source": "тарировочный график",
+    "target": "标定曲线",
+    "references": [
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 15,
+        "matchedText": "тарировочный график"
+      }
+    ]
+  },
+  {
+    "source": "синус",
+    "target": "正弦",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 169,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 559,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 621,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 686,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 704,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 756,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 2259,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 6799,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 905,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 952,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 1389,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 1517,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 1635,
+        "matchedText": "синус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 1836,
+        "matchedText": "синус"
+      }
+    ]
+  },
+  {
+    "source": "косинус",
+    "target": "余弦",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 160,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 532,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 559,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 621,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 686,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 704,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 905,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 952,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 1389,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 1517,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 1635,
+        "matchedText": "косинус"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 1836,
+        "matchedText": "косинус"
+      }
+    ]
+  },
+  {
+    "source": "арктангенс",
+    "target": "反正切",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 848,
+        "matchedText": "арктангенс"
+      }
+    ]
+  },
+  {
+    "source": "омега",
+    "target": "ω",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 160,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 169,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 469,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 477,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 532,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 559,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 582,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 621,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 631,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 728,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 740,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 756,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 773,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 792,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 825,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 831,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1082,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1093,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1096,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1100,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 1108,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 59,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 746,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 995,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 1066,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 1109,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 1289,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 1321,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 1441,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 2239,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3292,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3516,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 5102,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1028,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 6799,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 577,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 616,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 761,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1187,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1238,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1288,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 905,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 1635,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 1836,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2503,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2623,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2933,
+        "matchedText": "омега"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-111046-c201c3.jsonl",
+        "slide": 0,
+        "line": 486,
+        "matchedText": "омега"
+      }
+    ]
+  },
+  {
+    "source": "ню",
+    "target": "ν",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 240,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 246,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 621,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 958,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4920,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4950,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5139,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5185,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5280,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 6907,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 171,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 210,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2285,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2312,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2382,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2623,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 2709,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 3524,
+        "matchedText": "ню"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-111046-c201c3.jsonl",
+        "slide": 0,
+        "line": 377,
+        "matchedText": "ню"
+      }
+    ]
+  },
+  {
+    "source": "зета",
+    "target": "ζ",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 761,
+        "matchedText": "зета"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 773,
+        "matchedText": "зета"
+      }
+    ]
+  },
+  {
+    "source": "экспериментальное исследование качки",
+    "target": "摇荡试验研究",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 1,
+        "matchedText": "экспериментальное исследование качки"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 898,
+        "matchedText": "экспериментальное исследование качки"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1858,
+        "matchedText": "экспериментальное исследование качки"
+      }
+    ]
+  },
+  {
+    "source": "модельные испытания",
+    "target": "模型试验",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 3,
+        "matchedText": "модельные испытания"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1708,
+        "matchedText": "модельные испытания"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1738,
+        "matchedText": "модельные испытания"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1858,
+        "matchedText": "модельные испытания"
+      }
+    ]
+  },
+  {
+    "source": "натурные испытания",
+    "target": "实船试验",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 3,
+        "matchedText": "Натурные – на самом судне"
+      }
+    ]
+  },
+  {
+    "source": "полунатурные испытания",
+    "target": "半实船模型试验",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 3,
+        "matchedText": "Полунатурные – большие самоходные модели"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1708,
+        "matchedText": "дальше полунатурные"
+      }
+    ]
+  },
+  {
+    "source": "серийные испытания",
+    "target": "系列试验",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 2,
+        "matchedText": "серийные испытания"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1358,
+        "matchedText": "серийные испытания"
+      }
+    ]
+  },
+  {
+    "source": "опытовый бассейн",
+    "target": "试验水池",
+    "references": [
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 14,
+        "matchedText": "опытовый бассейн"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 4,
+        "matchedText": "опытовый бассейн"
+      }
+    ]
+  },
+  {
+    "source": "самоходные модели",
+    "target": "自航模型",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 3,
+        "matchedText": "самоходные модели"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1708,
+        "matchedText": "самоходные модели"
+      }
+    ]
+  },
+  {
+    "source": "масштабный эффект",
+    "target": "尺度效应",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 3,
+        "matchedText": "масштабный эффект"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "масштабный эффект"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 8,
+        "matchedText": "масштабный эффект"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 14,
+        "matchedText": "масштабный эффект"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1708,
+        "matchedText": "масштабный эффект"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1986,
+        "matchedText": "масштабный эффект"
+      }
+    ]
+  },
+  {
+    "source": "натура",
+    "target": "实船",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "натура"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 7,
+        "matchedText": "натура"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1708,
+        "matchedText": "натура"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5945,
+        "matchedText": "натура"
+      }
+    ]
+  },
+  {
+    "source": "волнопродуктор",
+    "target": "造波机",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 4,
+        "matchedText": "волнопродуктор"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1856,
+        "matchedText": "волнопродуктор"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1948,
+        "matchedText": "волнопродуктор"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2306,
+        "matchedText": "волнопродуктор"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2855,
+        "matchedText": "волнопродуктор"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 210,
+        "matchedText": "волнопродуктор"
+      }
+    ]
+  },
+  {
+    "source": "волнопродукторы",
+    "target": "造波机",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 4,
+        "matchedText": "волнопродукторы"
+      }
+    ]
+  },
+  {
+    "source": "волногенератор",
+    "target": "造波机",
+    "references": [
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2162,
+        "matchedText": "волногенератор"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2255,
+        "matchedText": "волногенератор"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2306,
+        "matchedText": "волногенератор"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2378,
+        "matchedText": "волногенератор"
+      }
+    ]
+  },
+  {
+    "source": "волнограф",
+    "target": "波浪记录仪",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 4,
+        "matchedText": "волнограф"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2378,
+        "matchedText": "волнограф"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2447,
+        "matchedText": "волнограф"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2855,
+        "matchedText": "волнограф"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2885,
+        "matchedText": "волнограф"
+      }
+    ]
+  },
+  {
+    "source": "волногаситель",
+    "target": "消波装置",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 4,
+        "matchedText": "волногаситель"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2501,
+        "matchedText": "волногаситель"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2653,
+        "matchedText": "волногаситель"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2855,
+        "matchedText": "волногаситель"
+      }
+    ]
+  },
+  {
+    "source": "волногасители",
+    "target": "消波装置",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 4,
+        "matchedText": "волногасители"
+      }
+    ]
+  },
+  {
+    "source": "условия подобия",
+    "target": "相似条件",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "условия подобия"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1858,
+        "matchedText": "условия подобия"
+      }
+    ]
+  },
+  {
+    "source": "геометрическое подобие",
+    "target": "几何相似",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "геометрическое подобие"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2984,
+        "matchedText": "геометрическое подобие"
+      }
+    ]
+  },
+  {
+    "source": "кинематическое подобие",
+    "target": "运动相似",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "Кинематическое – пропорциональны скорости"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3879,
+        "matchedText": "кинематическое подобие"
+      }
+    ]
+  },
+  {
+    "source": "динамическое подобие",
+    "target": "动力相似",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "Для динамического подобия"
+      }
+    ]
+  },
+  {
+    "source": "геометрический масштаб",
+    "target": "几何缩尺比",
+    "references": [
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4570,
+        "matchedText": "геометрический масштаб"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4682,
+        "matchedText": "геометрический масштаб"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5945,
+        "matchedText": "геометрический масштаб"
+      }
+    ]
+  },
+  {
+    "source": "число Фруда",
+    "target": "傅汝德数",
+    "references": [
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 13,
+        "matchedText": "число Фруда"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 6,
+        "matchedText": "чисел Фруда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3213,
+        "matchedText": "число Фруда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3391,
+        "matchedText": "числу фруда"
+      }
+    ]
+  },
+  {
+    "source": "число Рейнольдса",
+    "target": "雷诺数",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 8,
+        "matchedText": "чисел Рейнольдса"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3391,
+        "matchedText": "числу рейнольдса"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5029,
+        "matchedText": "число Рейнольдса"
+      }
+    ]
+  },
+  {
+    "source": "число Струхаля",
+    "target": "斯特劳哈尔数",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 6,
+        "matchedText": "чисел Струхаля"
+      }
+    ]
+  },
+  {
+    "source": "число Вебера",
+    "target": "韦伯数",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "Вебера  σ"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3475,
+        "matchedText": "число Вебера"
+      }
+    ]
+  },
+  {
+    "source": "число Эйлера",
+    "target": "欧拉数",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "Эйлера  2p"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3754,
+        "matchedText": "число Эйлера"
+      }
+    ]
+  },
+  {
+    "source": "автомодельность",
+    "target": "自模性",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 8,
+        "matchedText": "автомодельность"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5096,
+        "matchedText": "автомодельность"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5139,
+        "matchedText": "автомодельность"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1858,
+        "matchedText": "автомодельность"
+      }
+    ]
+  },
+  {
+    "source": "поверхностное натяжение",
+    "target": "表面张力",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "поверхностное натяжение"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 8,
+        "matchedText": "поверхностное натяжение"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 14,
+        "matchedText": "поверхностное натяжение"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3475,
+        "matchedText": "поверхностное натяжение"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3622,
+        "matchedText": "поверхностное натяжение"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5402,
+        "matchedText": "поверхностное натяжение"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1986,
+        "matchedText": "поверхностное натяжение"
+      }
+    ]
+  },
+  {
+    "source": "вязкость",
+    "target": "黏性",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 9,
+        "matchedText": "вязкость"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "вязкость"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 14,
+        "matchedText": "вязкость"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1986,
+        "matchedText": "вязкость"
+      }
+    ]
+  },
+  {
+    "source": "вязкостные силы",
+    "target": "黏性力",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 3,
+        "matchedText": "вязкостные силы"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 8,
+        "matchedText": "вязкостные силы"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5096,
+        "matchedText": "вязкостные силы"
+      }
+    ]
+  },
+  {
+    "source": "вихреобразование",
+    "target": "涡生成",
+    "references": [
+      {
+        "file": "2a\\7.pptx",
+        "slide": 6,
+        "matchedText": "вихреобразование"
+      }
+    ]
+  },
+  {
+    "source": "волнообразование",
+    "target": "兴波",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 5,
+        "matchedText": "волнообразование"
+      }
+    ]
+  },
+  {
+    "source": "волновые силы",
+    "target": "波浪力",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 6,
+        "matchedText": "волновые силы"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3317,
+        "matchedText": "волновые силы"
+      }
+    ]
+  },
+  {
+    "source": "тарировка модели",
+    "target": "模型标定",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 9,
+        "matchedText": "тарировка модели"
+      }
+    ]
+  },
+  {
+    "source": "тарировка",
+    "target": "标定",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 9,
+        "matchedText": "тарировка"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 10,
+        "matchedText": "тарировка"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 14,
+        "matchedText": "тарировка"
+      }
+    ]
+  },
+  {
+    "source": "статическая тарировка",
+    "target": "静态标定",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 9,
+        "matchedText": "статическая тарировка"
+      }
+    ]
+  },
+  {
+    "source": "динамическая тарировка",
+    "target": "动态标定",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 9,
+        "matchedText": "динамическая тарировка"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 10,
+        "matchedText": "динамическая тарировка"
+      }
+    ]
+  },
+  {
+    "source": "опыт кренования",
+    "target": "倾斜试验",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 9,
+        "matchedText": "опытом кренования"
+      }
+    ]
+  },
+  {
+    "source": "физический маятник",
+    "target": "物理摆",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 10,
+        "matchedText": "физического маятника"
+      }
+    ]
+  },
+  {
+    "source": "гирокренограф",
+    "target": "陀螺横摇记录仪",
+    "references": [
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 3,
+        "matchedText": "гирокренограф"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 11,
+        "matchedText": "гирокренограф"
+      }
+    ]
+  },
+  {
+    "source": "метод свободных колебаний",
+    "target": "自由振动法",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 11,
+        "matchedText": "метод свободных колебаний"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-094932-d67b00.jsonl",
+        "slide": 0,
+        "line": 1858,
+        "matchedText": "метод свободных колебаний"
+      }
+    ]
+  },
+  {
+    "source": "метод вынужденных колебаний",
+    "target": "受迫振动法",
+    "references": [
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 3,
+        "matchedText": "метод вынужденных колебаний"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 12,
+        "matchedText": "метод вынужденных колебаний"
+      }
+    ]
+  },
+  {
+    "source": "раскачивающее устройство",
+    "target": "激振装置",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 12,
+        "matchedText": "раскачивающее устройство"
+      }
+    ]
+  },
+  {
+    "source": "испытания на волнении",
+    "target": "波浪中试验",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 13,
+        "matchedText": "испытания на волнении"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 14,
+        "matchedText": "испытания на волнении"
+      }
+    ]
+  },
+  {
+    "source": "буксировочная тележка",
+    "target": "拖车",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 13,
+        "matchedText": "буксировочной тележкой"
+      }
+    ]
+  },
+  {
+    "source": "резонансная зона",
+    "target": "共振区",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 13,
+        "matchedText": "резонансную зону"
+      }
+    ]
+  },
+  {
+    "source": "нерегулярное волнение",
+    "target": "不规则波",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 3,
+        "matchedText": "нерегулярное волнение"
+      }
+    ]
+  },
+  {
+    "source": "нерегулярная волна",
+    "target": "不规则波",
+    "references": [
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2732,
+        "matchedText": "нерегулярная волна"
+      }
+    ]
+  },
+  {
+    "source": "спектры волнения и качки",
+    "target": "波浪与摇荡谱",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 13,
+        "matchedText": "спектры волнения и качки"
+      }
+    ]
+  },
+  {
+    "source": "совместная качка",
+    "target": "耦合摇荡",
+    "references": [
+      {
+        "file": "4a\\12.pptx",
+        "slide": 1,
+        "matchedText": "совместная качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 13,
+        "matchedText": "совместная качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 130,
+        "matchedText": "совместная качка"
+      }
+    ]
+  },
+  {
+    "source": "совместная модель",
+    "target": "耦合模型",
+    "references": [
+      {
+        "file": "4a\\12.pptx",
+        "slide": 12,
+        "matchedText": "совместная модель"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 9,
+        "matchedText": "совместная модель"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 13,
+        "matchedText": "совместная модель"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-111046-c201c3.jsonl",
+        "slide": 0,
+        "line": 486,
+        "matchedText": "совместная модель"
+      }
+    ]
+  },
+  {
+    "source": "продольная качка",
+    "target": "纵向摇荡",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 8,
+        "matchedText": "продольная качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 7,
+        "matchedText": "продольная качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 2,
+        "matchedText": "продольная качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 13,
+        "matchedText": "продольная качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 5468,
+        "matchedText": "продольная качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 303,
+        "matchedText": "продольная качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-111046-c201c3.jsonl",
+        "slide": 0,
+        "line": 486,
+        "matchedText": "продольная качка"
+      }
+    ]
+  },
+  {
+    "source": "поперечная качка",
+    "target": "横向摇荡",
+    "references": [
+      {
+        "file": "4a\\12.pptx",
+        "slide": 2,
+        "matchedText": "поперечная качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 3,
+        "matchedText": "поперечная качка"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 13,
+        "matchedText": "поперечная качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 366,
+        "matchedText": "поперечная качка"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-111046-c201c3.jsonl",
+        "slide": 0,
+        "line": 486,
+        "matchedText": "поперечная качка"
+      }
+    ]
+  },
+  {
+    "source": "гидростатическая связь",
+    "target": "静水力耦合",
+    "references": [
+      {
+        "file": "4a\\12.pptx",
+        "slide": 7,
+        "matchedText": "гидростатическая связь"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 3524,
+        "matchedText": "гидростатическая связь"
+      }
+    ]
+  },
+  {
+    "source": "диаметральная плоскость",
+    "target": "中纵剖面",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 6,
+        "matchedText": "диаметральной плоскости"
+      },
+      {
+        "file": "1p\\5.pptx",
+        "slide": 10,
+        "matchedText": "диаметральной плоскости"
+      }
+    ]
+  },
+  {
+    "source": "мидель",
+    "target": "船中",
+    "references": [
+      {
+        "file": "1p\\5.pptx",
+        "slide": 10,
+        "matchedText": "мидель"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 7,
+        "matchedText": "миделя"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 10,
+        "matchedText": "миделя"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 13,
+        "matchedText": "миделя"
+      }
+    ]
+  },
+  {
+    "source": "метод плоских сечений",
+    "target": "切片法",
+    "references": [
+      {
+        "file": "2a\\7.pptx",
+        "slide": 7,
+        "matchedText": "метод плоских сечений"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 11,
+        "matchedText": "методе плоских сечений"
+      }
+    ]
+  },
+  {
+    "source": "изгибающие моменты",
+    "target": "弯矩",
+    "references": [
+      {
+        "file": "4a\\12.pptx",
+        "slide": 12,
+        "matchedText": "изгибающие моменты"
+      }
+    ]
+  },
+  {
+    "source": "опрокидывание",
+    "target": "倾覆",
+    "references": [
+      {
+        "file": "4a\\12.pptx",
+        "slide": 12,
+        "matchedText": "опрокидывания"
+      }
+    ]
+  },
+  {
+    "source": "слеминг",
+    "target": "砰击",
+    "references": [
+      {
+        "file": "2a\\7.pptx",
+        "slide": 8,
+        "matchedText": "слеминг"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 12,
+        "matchedText": "слеминг"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 5,
+        "matchedText": "слеминг"
+      }
+    ]
+  },
+  {
+    "source": "заливание палубы",
+    "target": "甲板上浪",
+    "references": [
+      {
+        "file": "2a\\7.pptx",
+        "slide": 8,
+        "matchedText": "заливание палубы"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 12,
+        "matchedText": "заливание палубы"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 5,
+        "matchedText": "заливание палубы"
+      }
+    ]
+  },
+  {
+    "source": "кажущаяся частота",
+    "target": "遭遇频率",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 2,
+        "matchedText": "кажущаяся частота"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "кажущаяся частота"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 9,
+        "matchedText": "кажущаяся частота"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 3,
+        "matchedText": "кажущаяся частота"
+      }
+    ]
+  },
+  {
+    "source": "относительная скорость",
+    "target": "相对速度",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 2,
+        "matchedText": "относительной скоростью"
+      }
+    ]
+  },
+  {
+    "source": "косые курсовые углы",
+    "target": "斜浪浪向角",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "косые курсовые углы"
+      }
+    ]
+  },
+  {
+    "source": "косое волнение",
+    "target": "斜浪",
+    "references": [
+      {
+        "file": "1a\\2.pptx",
+        "slide": 5,
+        "matchedText": "косое волнение"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 11,
+        "matchedText": "косом волнении"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 13,
+        "matchedText": "косом волнении"
+      }
+    ]
+  },
+  {
+    "source": "волнение лагом",
+    "target": "横浪",
+    "references": [
+      {
+        "file": "4a\\12.pptx",
+        "slide": 2,
+        "matchedText": "волнении лагом"
+      }
+    ]
+  },
+  {
+    "source": "носовая оконечность",
+    "target": "艏部",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 5,
+        "matchedText": "носовой оконечности"
+      }
+    ]
+  },
+  {
+    "source": "подъёмная сила",
+    "target": "升力",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "подъёмной силы"
+      }
+    ]
+  },
+  {
+    "source": "скуловые кили",
+    "target": "舭龙骨",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 6,
+        "matchedText": "скуловых килях"
+      }
+    ]
+  },
+  {
+    "source": "дисперсионное соотношение",
+    "target": "色散关系",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 7,
+        "matchedText": "дисперсионное соотношение"
+      }
+    ]
+  },
+  {
+    "source": "мелководье",
+    "target": "浅水",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 7,
+        "matchedText": "мелководье"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 9,
+        "matchedText": "мелководье"
+      },
+      {
+        "file": "4a\\13.pptx",
+        "slide": 8,
+        "matchedText": "мелководье"
+      }
+    ]
+  },
+  {
+    "source": "мелкая вода",
+    "target": "浅水",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 7,
+        "matchedText": "мелкая вода"
+      }
+    ]
+  },
+  {
+    "source": "глубокая вода",
+    "target": "深水",
+    "references": [
+      {
+        "file": "4a\\13.pptx",
+        "slide": 7,
+        "matchedText": "глубокая вода"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 7,
+        "matchedText": "глубокая вода"
+      }
+    ]
+  },
+  {
+    "source": "амплитуда волны",
+    "target": "波幅",
+    "references": [
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1887,
+        "matchedText": "амплитуда волны"
+      }
+    ]
+  },
+  {
+    "source": "главные размерения",
+    "target": "主尺度",
+    "references": [
+      {
+        "file": "2a\\7.pptx",
+        "slide": 5,
+        "matchedText": "главные размерения"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 16,
+        "matchedText": "главным размерениям"
+      },
+      {
+        "file": "3a\\10.pptx",
+        "slide": 17,
+        "matchedText": "главным размерениям"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 2,
+        "matchedText": "главным размерениям"
+      }
+    ]
+  },
+  {
+    "source": "обводы",
+    "target": "船体线型",
+    "references": [
+      {
+        "file": "2a\\7.pptx",
+        "slide": 5,
+        "matchedText": "обводы"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 3,
+        "matchedText": "обводы"
+      }
+    ]
+  },
+  {
+    "source": "выступающие части",
+    "target": "附体",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 3,
+        "matchedText": "выступающих частей"
+      }
+    ]
+  },
+  {
+    "source": "успокоители качки",
+    "target": "减摇装置",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 2,
+        "matchedText": "успокоителей качки"
+      }
+    ]
+  },
+  {
+    "source": "мореходность",
+    "target": "耐波性",
+    "references": [
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 15,
+        "matchedText": "мореходности"
+      },
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 16,
+        "matchedText": "мореходности"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 2,
+        "matchedText": "мореходности"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1358,
+        "matchedText": "мореходность"
+      }
+    ]
+  },
+  {
+    "source": "аппликата ЦТ",
+    "target": "重心垂向坐标",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 9,
+        "matchedText": "аппликата ЦТ"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 5,
+        "matchedText": "аппликата ЦТ"
+      }
+    ]
+  },
+  {
+    "source": "радиус инерции массы",
+    "target": "质量惯性半径",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 6,
+        "matchedText": "радиус инерции массы"
+      }
+    ]
+  },
+  {
+    "source": "момент инерции массы",
+    "target": "质量转动惯量",
+    "references": [
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 14,
+        "matchedText": "момент инерции массы"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 7,
+        "matchedText": "момент инерции массы"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 9,
+        "matchedText": "момент инерции массы"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 5,
+        "matchedText": "момент инерции массы"
+      }
+    ]
+  },
+  {
+    "source": "коэффициент присоединённого момента инерции",
+    "target": "附加转动惯量系数",
+    "references": [
+      {
+        "file": "2p\\practice.pptx",
+        "slide": 2,
+        "matchedText": "коэффициент присоединённого момента инерции"
+      },
+      {
+        "file": "4a\\11.pptx",
+        "slide": 11,
+        "matchedText": "коэффициент присоединённого момента инерции"
+      }
+    ]
+  },
+  {
+    "source": "безразмерный коэффициент сопротивления",
+    "target": "无量纲阻力系数",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 8,
+        "matchedText": "безразмерный коэффициент сопротивления"
+      }
+    ]
+  },
+  {
+    "source": "относительный коэффициент демпфирования",
+    "target": "相对阻尼系数",
+    "references": [
+      {
+        "file": "2a\\6.pptx",
+        "slide": 10,
+        "matchedText": "относительный коэффициент демпфирования"
+      },
+      {
+        "file": "2a\\6.pptx",
+        "slide": 11,
+        "matchedText": "относительный коэффициент демпфирования"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 8,
+        "matchedText": "относительный коэффициент демпфирования"
+      }
+    ]
+  },
+  {
+    "source": "коэффициент вертикальной полноты",
+    "target": "垂向棱形系数",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 20,
+        "matchedText": "коэффициент вертикальной полноты"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 9,
+        "matchedText": "коэффициент вертикальной полноты"
+      }
+    ]
+  },
+  {
+    "source": "поперечный метацентрический радиус",
+    "target": "横稳心半径",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 4,
+        "matchedText": "поперечный метацентрический радиус"
+      }
+    ]
+  },
+  {
+    "source": "редукционный коэффициент",
+    "target": "折减系数",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 9,
+        "matchedText": "редукционный коэффициент"
+      }
+    ]
+  },
+  {
+    "source": "резонансный пик",
+    "target": "共振峰",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 24,
+        "matchedText": "резонансного пика"
+      },
+      {
+        "file": "4a\\12.pptx",
+        "slide": 13,
+        "matchedText": "резонансный пик"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 10,
+        "matchedText": "резонансного пика"
+      }
+    ]
+  },
+  {
+    "source": "резонансная частота",
+    "target": "共振频率",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 12,
+        "matchedText": "резонансная частота"
+      }
+    ]
+  },
+  {
+    "source": "установившееся решение",
+    "target": "稳态解",
+    "references": [
+      {
+        "file": "4a\\11.pptx",
+        "slide": 12,
+        "matchedText": "установившееся решение"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 3,
+        "matchedText": "установившееся решение"
+      }
+    ]
+  },
+  {
+    "source": "пассажирские суда",
+    "target": "客船",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 25,
+        "matchedText": "пассажирские суда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 278,
+        "matchedText": "пассажирских судов"
+      }
+    ]
+  },
+  {
+    "source": "грузовые суда",
+    "target": "货船",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 25,
+        "matchedText": "грузовых судов"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 304,
+        "matchedText": "грузовых судов"
+      }
+    ]
+  },
+  {
+    "source": "ледокол",
+    "target": "破冰船",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 14,
+        "matchedText": "ледокол"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 15,
+        "matchedText": "ледокол"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 449,
+        "matchedText": "ледоколов"
+      }
+    ]
+  },
+  {
+    "source": "сухогруз",
+    "target": "干货船",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 14,
+        "matchedText": "сухогруз"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 15,
+        "matchedText": "сухогруз"
+      }
+    ]
+  },
+  {
+    "source": "лесовоз",
+    "target": "木材运输船",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 14,
+        "matchedText": "лесовоз"
+      }
+    ]
+  },
+  {
+    "source": "контейнеровоз",
+    "target": "集装箱船",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 15,
+        "matchedText": "контейнеровоз"
+      }
+    ]
+  },
+  {
+    "source": "балкер",
+    "target": "散货船",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 14,
+        "matchedText": "балкер"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 15,
+        "matchedText": "балкер"
+      }
+    ]
+  },
+  {
+    "source": "танкер",
+    "target": "油船",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 15,
+        "matchedText": "танкер"
+      }
+    ]
+  },
+  {
+    "source": "ролкер",
+    "target": "滚装船",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 14,
+        "matchedText": "ролкер"
+      }
+    ]
+  },
+  {
+    "source": "лихтеровоз",
+    "target": "载驳船",
+    "references": [
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 14,
+        "matchedText": "лихтеровоз"
+      }
+    ]
+  },
+  {
+    "source": "приближённые формулы",
+    "target": "近似公式",
+    "references": [
+      {
+        "file": "3a\\10.pptx",
+        "slide": 17,
+        "matchedText": "приближённые формулы"
+      },
+      {
+        "file": "4a\\P2_regular.pptx",
+        "slide": 5,
+        "matchedText": "приближённые формулы"
+      }
+    ]
+  },
+  {
+    "source": "квадратный корень",
+    "target": "平方根",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 517,
+        "matchedText": "квадратный корень"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 2175,
+        "matchedText": "квадратный корень"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3753,
+        "matchedText": "квадратный корень"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3239,
+        "matchedText": "квадратный корень"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4152,
+        "matchedText": "квадратный корень"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4363,
+        "matchedText": "квадратный корень"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4437,
+        "matchedText": "квадратный корень"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4476,
+        "matchedText": "квадратный корень"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4508,
+        "matchedText": "квадратный корень"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4682,
+        "matchedText": "квадратный корень"
+      }
+    ]
+  },
+  {
+    "source": "ускорение свободного падения",
+    "target": "重力加速度",
+    "references": [
+      {
+        "file": "1a\\ship_theory.pptx",
+        "slide": 5,
+        "matchedText": "ускорение свободного падения"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 3317,
+        "matchedText": "ускорение свободного падения"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 4053,
+        "matchedText": "ускорение свободного падения"
+      }
+    ]
+  },
+  {
+    "source": "волновой склон",
+    "target": "波面坡度",
+    "references": [
+      {
+        "file": "3a\\8.pptx",
+        "slide": 5,
+        "matchedText": "волнового склона"
+      }
+    ]
+  },
+  {
+    "source": "лямбда",
+    "target": "λ",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 88,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 218,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 229,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 234,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 555,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 607,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 644,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 746,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 949,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 1289,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 2555,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 171,
+        "matchedText": "лямбда"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-111046-c201c3.jsonl",
+        "slide": 0,
+        "line": 377,
+        "matchedText": "лямбда"
+      }
+    ]
+  },
+  {
+    "source": "бета",
+    "target": "β",
+    "references": [
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1070,
+        "matchedText": "бета"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 366,
+        "matchedText": "бета"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 405,
+        "matchedText": "бета"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-103447-063968.jsonl",
+        "slide": 0,
+        "line": 439,
+        "matchedText": "бета"
+      }
+    ]
+  },
+  {
+    "source": "альфа",
+    "target": "α",
+    "references": [
+      {
+        "file": "历史\\data0\\sessions\\课堂-20261104-101536-9e1fc5.jsonl",
+        "slide": 0,
+        "line": 559,
+        "matchedText": "альфа"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 2573,
+        "matchedText": "альфа"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 2624,
+        "matchedText": "альфа"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 2757,
+        "matchedText": "альфа"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 2904,
+        "matchedText": "альфа"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 4963,
+        "matchedText": "альфа"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 1070,
+        "matchedText": "альфа"
+      }
+    ]
+  },
+  {
+    "source": "тау",
+    "target": "τ",
+    "references": [
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3183,
+        "matchedText": "тау"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3216,
+        "matchedText": "тау"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 3292,
+        "matchedText": "тау"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 4963,
+        "matchedText": "тау"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 4988,
+        "matchedText": "тау"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 5029,
+        "matchedText": "тау"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-081936-abacc8.jsonl",
+        "slide": 0,
+        "line": 5067,
+        "matchedText": "тау"
+      },
+      {
+        "file": "历史\\课堂字幕\\data\\sessions\\课堂-20261105-090213-ff6e75.jsonl",
+        "slide": 0,
+        "line": 278,
+        "matchedText": "тау"
+      }
+    ]
+  }
+]
